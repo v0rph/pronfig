@@ -4,6 +4,6 @@
   port: 3000
   s: rails server -p 3000
   t: bundle exec rake test
-  t_w1arg: ruby -I test PARAM1
-  t_w2arg: ruby -I test PARAM1 -n /PARAM2/
+  t_#1: ruby -I test PARAM1
+  t_#2: ruby -I test PARAM1 -n /PARAM2/
 
