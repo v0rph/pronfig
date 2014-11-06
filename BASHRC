@@ -1,0 +1,2 @@
+ruby "$PRONFIG_PATH"/pronfig.rb
+source "$PRONFIG_PATH/tmp/pronfig_aliases"

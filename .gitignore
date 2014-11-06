@@ -1,0 +1,8 @@
+# Ignore temp files
+*~
+*.swp
+*.swo*.swp
+.idea/
+
+# Ignore config
+config/config.yml
